@@ -39,7 +39,14 @@ Park alanlarını sensörler ile izleyerek:
   - Aksi halde kapalı kalır (0°)
 
 ---
+### Servo Motor
+![Servo](servo.png)
 
+### Sensör
+![Sensor](sensor.png)
+
+### Ekran
+![Ekran](ekran.jpeg)
 ## 💻 Kod Yapısı
 
 - `LiquidCrystal` kütüphanesi LCD kontrolü için kullanıldı
